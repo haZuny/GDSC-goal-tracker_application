@@ -3,7 +3,7 @@
 [~~Link to GooglePlayStore~~](https://play.google.com/store/apps/details?id=com.gdsc.sch.goal_tracker&hl=ko)
 - 현재 aws 서버 배포 중단으로 인해, 작동 중지
 
-<br>
+<br><br><br>
 
 ## 📖  오늘도 내일도
 #### 사용자의 목표 달성을 도와주는 어플
