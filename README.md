@@ -51,7 +51,7 @@
 
 # 기여자
 - <App, Design> 권하준 [gitHub](https://github.com/haZuny)
-- <App> 강재영 [gitHub](https://github.com/kkkkkk0312)
+- < App > 강재영 [gitHub](https://github.com/kkkkkk0312)
 - <Server, DB> 김성호 [gitHub](https://github.com/OOOIOOOIO)
 
 <br>
