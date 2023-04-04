@@ -1,5 +1,5 @@
 ## 😀 구글 플레이 스토어 배포
-<img src="https://user-images.githubusercontent.com/64102831/229691171-3c74528a-1338-459a-8ccb-40efc5a9ae3c.png" width="300">
+<img src="https://user-images.githubusercontent.com/64102831/229691171-3c74528a-1338-459a-8ccb-40efc5a9ae3c.png" width="300"><br>
 [~~Link to GooglePlayStore~~](https://play.google.com/store/apps/details?id=com.gdsc.sch.goal_tracker&hl=ko)
 - 현재 aws 서버 배포 중단으로 인해, 작동 중지
 
