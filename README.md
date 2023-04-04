@@ -2,7 +2,7 @@
 
 #### 구글 플레이 스토어 배포
 [~~Link to GooglePlayStore~~](https://play.google.com/store/apps/details?id=com.gdsc.sch.goal_tracker&hl=ko)
-- 현재 aws 서버 배포 중단으로 인해, 작동 불가
+- 현재 aws 서버 배포 중단으로 인해, 작동 중지
 
 <br>
 
