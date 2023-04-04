@@ -1,11 +1,11 @@
-## 😀 구글 플레이 스토어 배포
+# 😀 구글 플레이 스토어 배포
 <img src="https://user-images.githubusercontent.com/64102831/229691171-3c74528a-1338-459a-8ccb-40efc5a9ae3c.png" width="300"><br>
 [~~Link to GooglePlayStore~~](https://play.google.com/store/apps/details?id=com.gdsc.sch.goal_tracker&hl=ko)
 - 현재 aws 서버 배포 중단으로 인해, 작동 중지
 
 <br><br><br>
 
-## 📖  오늘도 내일도
+# 📖  오늘도 내일도
 #### 사용자의 목표 달성을 도와주는 어플
 - 장기 목표 설정: 장기 목표를 설정하여, 설정한 기간동안 오늘도 내일도 앱을 통해 push 받을 수 있습니다.
 - 단기 목표 설정: 기 목표를 설정하여, 매일 해야 하는 일에 대한 알림을 받습니다.
@@ -14,7 +14,7 @@
 
 <br>
 
-## 🎈 기능
+# 🎈 기능
 
 #### 1. 로그인 및 회원가입
 <img src="https://user-images.githubusercontent.com/64102831/229691172-201c3fe7-d905-4909-b3b5-25bbedd0b940.jpg" width="200">&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/64102831/229691174-b831e731-2bef-40fa-badf-bcdbd64f241c.jpg" width="200"><br>
@@ -48,14 +48,14 @@
 
 <br>
 
-## 🙋‍♂️ 기여자
+# 🙋‍♂️ 기여자
 - \<App\>\<Design\> 권하준 [gitHub](https://github.com/haZuny)
 - \<App\> 강재영 [gitHub](https://github.com/kkkkkk0312)
 - \<Server\>\<DB\> 김성호 [gitHub](https://github.com/OOOIOOOIO)
 
 <br>
 
-## 💻 사용 도구
+# 💻 사용 도구
 - Design
   - Figma
 - App
@@ -65,7 +65,7 @@
   
   <br>
   
-## ❤ 느낀점
+  # ❤ 느낀점
  - 백엔드 개발자와 처음 협업을 해보며, 협업 프로젝트가 어떤 식으로 이루어지는지 느낄 수 있었습니다.
  - Google Play Store에 처음 배포를 해봤습니다. 실제로 배포를 하고나니 내가 만든 앱을 실제로 여러 사람들이 사용할 수 있다는게 실감났고, 앞으로 더 완성도 있게 프로그램을 개발해야겠다고 느끼는 계기가 되었습니다.
  - 디자인을 맡으며, 사용자가 이용하기 편리하도록 UI/UX를 만드는것의 중요성과 어려움을 느낄 수 있었습니다.
